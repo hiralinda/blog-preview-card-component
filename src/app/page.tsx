@@ -1,6 +1,7 @@
 import Image from "next/image";
 import mainImage from "@/images/illustration-article.svg";
 import profilePic from "@/images/image-avatar.webp";
+
 export default function Home() {
   return (
       <section className="relative group">

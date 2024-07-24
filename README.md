@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Frontend Mentor - Blog Preview Card
 
-## Getting Started
+This is my solution to the [Blog Preview Card on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS) built with [Next.js](https://nextjs.org/) and bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First, run the development server:
+## Table of contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+This project is a simple, responsive Blog Preview Card built as a solution to the [Blog Preview Card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). It showcases a clean, centered design featuring a QR code image and descriptive text, demonstrating skills in Next.js, Tailwind CSS, and responsive web design.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Screenshot
 
-## Learn More
+![Desktop preview](./desktop-preview.png)
+![Mobile preview](./mobile-preview.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Live Site URL: [Blog Preview Card Live Site]()
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## My process
 
-## Deploy on Vercel
+### Built with
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- [Next.js](https://nextjs.org/) - React framework
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
+- Semantic HTML5 markup
+- Mobile-first workflow
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### What I learned
+
+This project helped reinforce my understanding of:
+- Setting up a Next.js project with Tailwind CSS
+- Creating responsive layouts using Tailwind's utility classes
+- Implementing custom styles within the Tailwind framework
+- Handling different screen sizes with responsive design techniques
+
+### Continued development
+
+In future projects, I'd like to focus on:
+- Exploring more advanced Next.js features like server-side rendering and API routes
+- Deepening my understanding of Tailwind CSS customization
+- Improving accessibility features
+- Implementing more complex state management in React components
+
+### Useful resources
+
+- [Next.js Documentation](https://nextjs.org/docs): The official Next.js documentation was crucial for understanding the project setup and basic routing.
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs): This resource was invaluable for learning how to effectively use Tailwind's utility classes and customize the design.
+- [react with utkarsh YouTube Channel](https://www.youtube.com/watch?v=rDJPbot4Frc&ab_channel=reactwithutkarsh):  This channel provided excellent tutorials on React and Next.js implementation.
+- [Frontend Mentor](https://www.frontendmentor.io): The challenge itself provided great practice for implementing designs and improving front-end skills.
+
+## Author
+
+- Frontend Mentor - [@hiralinda](https://www.frontendmentor.io/profile/hiralinda)
+
+## Acknowledgments
+
+Thanks to Frontend Mentor for providing this challenge and to the online developer community for their invaluable resources and support. Special thanks to the Next.js and Tailwind CSS teams for creating such powerful and developer-friendly tools.
