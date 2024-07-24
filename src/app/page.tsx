@@ -3,7 +3,6 @@ import mainImage from "@/images/illustration-article.svg";
 import profilePic from "@/images/image-avatar.webp";
 export default function Home() {
   return (
-    <main className="flex min-h-screen items-center justify-center p-8 bg-yellow-400">
       <section className="relative group">
         {/* card component */}
         <div className="relative bg-white p-4 rounded-2xl border border-black flex flex-col gap-4 max-w-[335px] z-20">
@@ -24,8 +23,6 @@ export default function Home() {
           </div>
           <div className="absolute top-2 group-hover:top-4 left-2 group-hover:left-4 bg-black h-full w-full rounded-2xl"></div>
       </section>
-      
-     </main>
-    
+  
   );
 }
