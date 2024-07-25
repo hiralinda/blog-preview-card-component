@@ -26,7 +26,7 @@ This project is a simple, responsive Blog Preview Card built as a solution to th
 
 ### Links
 
-- Live Site URL: [Blog Preview Card Live Site]()
+- Live Site URL: [Blog Preview Card Live Site](https://blog-preview-card-component-tau.vercel.app/)
 
 ## My process
 
